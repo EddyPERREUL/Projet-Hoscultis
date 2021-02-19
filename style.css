@@ -1,0 +1,33 @@
+header {
+  background: linear-gradient(to bottom, transparent, #3671a9),
+    url("images/Header_Hoscultis.jpg");
+  background-size: cover;
+  background-position: center center;
+  /*background-attachment: scroll;*/
+}
+
+footer {
+  background: linear-gradient(to top, transparent, #3671a9),
+    url("images/Header_Hoscultis.jpg");
+  background-size: cover;
+  background-position: bottom center;
+  /*background-attachment: scroll;*/
+}
+
+.plusBtn {
+  background-color: #3671a9;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.plusBtn:hover {
+  background-color: #3671a9ce;
+}
+
+.contact {
+  background-color: #3671a913;
+}
+
+/*main {
+  box-shadow: 15px 10px 12px 4px #3671a9;
+}*/
